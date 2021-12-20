@@ -1,2 +1,2 @@
 # learngithub
-Laern Giuthub
+Learn Giuthub
